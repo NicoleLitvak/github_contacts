@@ -1,0 +1,31 @@
+.displayCard {
+    display: none;
+
+}
+
+.root {
+    width: 320px;
+    margin: 5px;
+    overflow-y: scroll;
+    
+}
+
+.root1 {
+    margin: 10px;
+}
+
+.media {
+    height: 30px;
+}
+
+.descriptionCard {
+    border-top: ridge;
+}
+
+.avatar {
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+}
+
